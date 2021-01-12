@@ -1,4 +1,4 @@
-package peakIndex;
+package leetcode852;
 
 import java.util.Arrays;
 
